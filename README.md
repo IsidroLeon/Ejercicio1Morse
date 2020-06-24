@@ -1,5 +1,7 @@
 # Ejercicio1Morse
 #Antonio Isidro Leon Hilario
+antonio.leon@puntosingular.com
+ileon_depad_mq@hotmail.com
 
 Para poder ejecutar el proyecto, se requiere de tener instalado y configura JAVA.
 Descarga/clona los archivos en este repositorio.
